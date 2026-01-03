@@ -25,7 +25,7 @@ pip install pip install git+https://github.com/mit-han-lab/torchsparse.git@v1.4.
 ```
 
 ## Dataset
-We put self-recorded datasets used in HBFusion in [Quark](https://pan.quark.cn/s/9c012d92bcd1). 
+We put self-recorded datasets used in HBFusion in [Quark](https://pan.quark.cn/s/96a5d3236a4b). 
 
 ## Train and Test
 
