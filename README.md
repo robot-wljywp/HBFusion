@@ -22,6 +22,10 @@ conda create -n hbfusion python==3.8.20
 conda activate hbfusion
 pip install torch==1.9.1+cu111
 pip install pip install git+https://github.com/mit-han-lab/torchsparse.git@v1.4.0
+
+# build torch sparse on torchsparse v2.1 (ubuntu 24 + 5070 + torch 2.12 + gcc 12)
+# export TORCH_CUDA_ARCH_LIST="8.9 9.0 12.0"
+# pip install -e . (or python setup.py install)
 ```
 
 ## Dataset
