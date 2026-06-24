@@ -5,6 +5,7 @@ dataloaders:
     collate:
       name: MetricCollate
     sampler:
+      name: HeteroTripletSample
       batch_size: 24
       batch_size_limit: 24
       batch_expansion_rate: 1.4
