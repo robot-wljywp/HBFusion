@@ -48,3 +48,18 @@ When you finish training model, you can get weights in weights/ (containing DATA
 # Acknowledgement
 We acknowledge the authors of [GAPR](https://github.com/SYSU-RoboticsLab/GAPR) and [TorchSparse](https://github.com/mit-han-lab/torchsparse) for their excellent codebase which has been used as a starting point for this project.
 
+# Cite
+{
+@ARTICLE{11008889,
+  author={Wang, Jiawei and Zhuang, Yan and Yan, Fei and Zhang, Xuetao},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Cross-Source Place Recognition for Unmanned Aerial-Ground Vehicles With Low-Overlap and Varying-Density Point Cloud}, 
+  year={2025},
+  volume={26},
+  number={10},
+  pages={15077-15086},
+  keywords={Point cloud compression;Feature extraction;Accuracy;Convolution;Bandwidth;Vehicle dynamics;Collaboration;Autonomous aerial vehicles;Density measurement;Unmanned aerial-ground vehicles;cross-source place recognition;point density variations},
+  doi={10.1109/TITS.2025.3568220}}
+}
+
+}
