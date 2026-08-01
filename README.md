@@ -49,6 +49,7 @@ When you finish training model, you can get weights in weights/ (containing DATA
 We acknowledge the authors of [GAPR](https://github.com/SYSU-RoboticsLab/GAPR) and [TorchSparse](https://github.com/mit-han-lab/torchsparse) for their excellent codebase which has been used as a starting point for this project.
 
 # Cite
+```
 {
 @ARTICLE{11008889,
   author={Wang, Jiawei and Zhuang, Yan and Yan, Fei and Zhang, Xuetao},
@@ -61,5 +62,4 @@ We acknowledge the authors of [GAPR](https://github.com/SYSU-RoboticsLab/GAPR) a
   keywords={Point cloud compression;Feature extraction;Accuracy;Convolution;Bandwidth;Vehicle dynamics;Collaboration;Autonomous aerial vehicles;Density measurement;Unmanned aerial-ground vehicles;cross-source place recognition;point density variations},
   doi={10.1109/TITS.2025.3568220}}
 }
-
-}
+```
