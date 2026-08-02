@@ -20,6 +20,7 @@ Please use the following command for installation.
 ```bash
 conda create -n hbfusion python==3.8.20
 conda activate hbfusion
+sudo apt-get install libsparsehash-dev
 pip install torch==1.9.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html
 pip install pip install git+https://github.com/mit-han-lab/torchsparse.git@v1.4.0
 
