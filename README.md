@@ -20,7 +20,7 @@ Please use the following command for installation.
 ```bash
 conda create -n hbfusion python==3.8.20
 conda activate hbfusion
-pip install torch==1.9.1+cu111
+pip install torch==1.9.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html
 pip install pip install git+https://github.com/mit-han-lab/torchsparse.git@v1.4.0
 
 # build torch sparse on torchsparse v2.1 (ubuntu 24 + 5070 + torch 2.12 + gcc 12)
